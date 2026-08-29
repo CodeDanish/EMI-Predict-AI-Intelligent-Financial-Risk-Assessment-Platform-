@@ -1,0 +1,2 @@
+# EMI-Predict-AI-Intelligent-Financial-Risk-Assessment-Platform-
+**EMIPredictAI**An end-to-end fintech platform built with Python and Streamlit to predict loan eligibility (XGBoost Classifier) and calculate safe maximum EMI caps (XGBoost Regressor) on 400k+ financial records. Features real-time inference, interactive analytics, MLflow experiment tracking, automated GitHub Actions CI/CD, and robust error handling
